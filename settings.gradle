@@ -1,0 +1,3 @@
+include ':EasyAdapter'
+include ':app'
+rootProject.name = "EasyAdapterLibrary"
